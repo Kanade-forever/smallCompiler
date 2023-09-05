@@ -1,0 +1,15 @@
+program a{
+	integer a,b,m,n,k,h,x,y;
+	while a>b{
+    		if m>n{
+			a = a+1;
+		}
+		else{
+			while k == h {
+				x = x+2;
+			}
+		}
+		m = n+x*(m+y);
+	}
+
+}
